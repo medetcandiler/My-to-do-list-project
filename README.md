@@ -12,7 +12,7 @@ Merhaba, ben Medetcan, Aslen Makine Mühendisi olsam da bilgisayar, bilgisayar b
 ---
 Proje örnek görsel:
 
-![proje-örnek-sunum-gif](https://github.com/medetcandiler/Bootstrap-Odev-2-Projem/blob/main/bootstrap-odev2.gif)
+![proje-örnek-sunum-gif]([https://github.com/medetcandiler/Bootstrap-Odev-2-Projem/blob/main/bootstrap-odev2.gif](https://github.com/medetcandiler/My-to-do-list-project/blob/main/mytodolist.gif))
 
 ---
 
